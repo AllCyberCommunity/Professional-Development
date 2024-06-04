@@ -10,22 +10,28 @@ You just need a laptop, an email account, and motivation to complete this module
 
 ### What are we doing?
 
-I. Setting up the environment
-1. Creating a GitHub account
-2. Installing Visual Studio Code
-3. Installing GitHub Desktop
+I. Setting up the social accounts
+1. Creating an email account (gmail, outlook, protonmail, other)
+2. Creating social media account (LinkedIn, X, other)
 
-II. GitHub repositories
-1. Creating  GitHub repository
-2. Cloning a GitHub repository
-3. Updating a Github Repository
+II. GitHub Online (Website)
+1. Creating a GitHub account
+2. Creating  GitHub repository
+3. Forking your favorite repository (contribute, make your own branch)
+4. Updating a Github Repository
+5. Creating a branch
+
+III. GitHub Local (Git)
+1. Installing Git
+2. Basic Git commands (clone, commit, push, branch)
+
+IV. GitHub Local (GitHub Desktop)
+1. Installing Visual Studio Code
+2. Installing GitHub Desktop
+3. Validating modification of files
 4. First commit using GitHub Desktop
 
-III. GitHub interaction using cmd/terminal
-1. Installing Git
-2. Basic Git commands
-
-IV. Professional Portfolio
+V. Updating Resume
 1. Adding portfolio url to a resume
 
 ### Did you miss the session?
